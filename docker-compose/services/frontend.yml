@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   frontend:
-    image: docker.io/library/blockscout-frontend:local
+    image: karandev1290/baaz-blockscout-frontend-new-1
     pull_policy: always
     platform: linux/amd64
     restart: always
